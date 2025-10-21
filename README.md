@@ -9,6 +9,11 @@ An AI-assisted job recommendation application that analyzes a PDF resume and sur
 - Top 5 job recommendations from LinkedIn and Naukri
 - Robust display with graceful handling of missing fields (title, company, link, location)
 
+##  Snapshots
+![image_alt](https://github.com/hardattmangrola/Karma.ai/blob/fbf0e7b7e001ffca171214d5b31a2eae4811f619/p1.png)
+![image_alt](https://github.com/hardattmangrola/Karma.ai/blob/fbf0e7b7e001ffca171214d5b31a2eae4811f619/p2.png)
+![image_alt](https://github.com/hardattmangrola/Karma.ai/blob/fbf0e7b7e001ffca171214d5b31a2eae4811f619/p3.png)
+
 ## Architecture
 
 - `app.py`: Streamlit UI and application flow
